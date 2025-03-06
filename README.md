@@ -1,6 +1,6 @@
 # Michael Anuka - Professional Portfolio
 
-Welcome to the professional portfolio website of Michael Anuka. This website showcases Michael's career achievements, experience, education, and skills.
+Welcome to the professional portfolio website of Michael Anuka he asked me to do in 1hr lol. This website showcases Michael's career achievements, experience, education, and skills.
 
 ## Table of Contents
 
@@ -61,6 +61,8 @@ A section where users can get in touch with Michael, including a contact form.
    ```
 2. Open the project folder in your preferred text editor.
 3. You can view the website by opening the index.html file in a web browser.
+
+Alternatively, you can visit the live website here: https://kolade082.github.io/michaels-portfolio/.
 
 ## Structure
 
