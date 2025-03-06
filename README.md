@@ -12,7 +12,6 @@ Welcome to the professional portfolio website of Michael Anuka he asked me to do
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Structure](#structure)
 
 ## About Me
 
@@ -64,11 +63,3 @@ A section where users can get in touch with Michael, including a contact form.
 
 Alternatively, you can visit the live website here: https://kolade082.github.io/michaels-portfolio/.
 
-## Structure
-
-The project has the following structure:
-
-/
-├── index.html # Main HTML file
-├── styles.css # Main stylesheet
-├── script.js # JavaScript file for interactivity
